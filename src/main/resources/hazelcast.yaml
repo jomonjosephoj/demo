@@ -1,0 +1,8 @@
+hazelcast:
+  network:
+    join:
+      multicast:
+        enabled: true
+  map:
+  	JOB_DTLS:
+  		time-to-live-seconds: 0
